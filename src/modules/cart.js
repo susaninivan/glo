@@ -1,3 +1,5 @@
+
+
 const cart = function () {
 
     const cartBtn = document.getElementById("cart")
